@@ -1,0 +1,65 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.androidaidlserviceexample.MainActivity" >
+
+    <TextView
+        android:id="@+id/tv_Title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text="Enter 2 digits for addition, then click result button for getting the result form the service using AIDL."
+        android:textColor="#3393ff"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/ed_FirstNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_Title"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="35dp"
+        android:ems="10"
+        android:hint="Enter a number"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/ed_SecondNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ed_FirstNumber"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="33dp"
+        android:ems="10"
+        android:hint="Enter a number"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/ed_Result"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ed_SecondNumber"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="18dp"
+        android:editable="false"
+        android:ems="10" />
+
+    <Button
+        android:id="@+id/btn_Result"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ed_Result"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="26dp"
+        android:background="#ADD8E6"
+        android:onClick="onClickButtonResult"
+        android:text="Result" />
+
+</RelativeLayout>
