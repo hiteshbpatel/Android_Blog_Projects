@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GooglePlusExampleAndroid</string>
+    <string name="btn_logout_from_google">Logout from Google</string>
+</resources>
