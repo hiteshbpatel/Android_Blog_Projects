@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SwipeRefreshLayoutFragmentExampleAndroid</string>
+    <string-array name="list_names">
+        <item>Cupcake</item>
+        <item>Donut</item>
+        <item>Eclair</item>
+        <item>Froyo</item>
+        <item>Gingerbread</item>
+        <item>Honeycomb</item>
+        <item>Ice Cream Sandwich</item>
+        <item>Jelly Bean</item>
+        <item>Kitkat</item>
+        <item>Lollipop</item>
+        <item>Marshmallow</item>
+        <item>Nougat</item>
+    </string-array>
+
+
+</resources>
