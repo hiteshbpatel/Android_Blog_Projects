@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DrawPathOnGoogleMapExampleAndroid</string>
+    <string name="title_activity_maps">DrawPathOnGoogleMap</string>
+</resources>
