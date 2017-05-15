@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">ViewPagerIndicatorExampleAndroid</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="numberlabel">"S.No : "</string>
+    <string name="namelabel">"Name : "</string>
+    <string name="agelabel">"Age : "</string>
+
+</resources>
