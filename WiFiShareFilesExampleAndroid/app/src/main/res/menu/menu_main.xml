@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+tools:context=".MainActivity">
+<item android:id="@+id/action_directEnable"
+    android:title="@string/enable_p2p_button"
+    android:orderInCategory="100"
+    app:showAsAction="never"/>
+<item android:id="@+id/action_directDiscover"
+    android:title="@string/discover_peers_button"
+    android:orderInCategory="100"
+    app:showAsAction="never"/>
+
+</menu>
