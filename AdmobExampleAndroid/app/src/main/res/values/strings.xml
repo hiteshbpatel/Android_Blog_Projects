@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AdMobExampleAndroid</string>
+    <string name="banner_id">ca-app-pub-2474599530544069/3159981630</string>
+    <string name="interstitial_id">ca-app-pub-2474599530544069/6113448034 </string>
+    <string name="msg_welcome">Welcome to Admob in Android.\nClick on the below button to launch the Interstitial Ad.</string>
+
+</resources>
