@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidPullToRefreshExample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_pull_to_refresh_list_view">PullToRefreshListViewActivity</string>
+    <string name="title_activity_pull_to_refresh_grid_view">PullToRefreshGridViewActivity</string>
+
+</resources>
