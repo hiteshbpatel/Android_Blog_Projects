@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidViewPagerExample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="text">Hummingbirds are New World birds that constitute the family Trochilidae. They are among the smallest of birds, most species measuring in the 7.5–13 cm (3–5 in) range. Indeed, the smallest extant bird species is a hummingbird, the 5-cm bee hummingbird weighing less than a U.S. penny (2.5 g).
+
+They are known as hummingbirds because of the humming sound created by their beating wings which flap at high frequencies audible to humans. They hover in mid-air at rapid wing-flapping rates, typically around 50 times per second, allowing them also to fly at speeds exceeding 15 m/s (54 km/h; 34 mph).
+
+Hummingbirds have the highest metabolism of any homeothermic animal.</string>
+
+</resources>
