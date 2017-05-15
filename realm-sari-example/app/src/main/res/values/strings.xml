@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sari Shop</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Sari Name</string>
+    <string name="description">Description</string>
+    <string name="price">Price</string>
+    <string name="add_sari">Adding Sari</string>
+    <string name="image_link">Image Link</string>
+    <string name="entry_not_saved">Entry not saved, Sari Name is missing.</string>
+    <string name="edit_sari">Edit Sari</string>
+    <string name="press_to_edit_long_press_remove">Press card item for edit, long press to remove item</string>
+</resources>
