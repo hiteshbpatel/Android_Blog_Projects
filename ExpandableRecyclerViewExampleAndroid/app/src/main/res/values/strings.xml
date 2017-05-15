@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExpandableRecyclerViewExampleAndroid</string>
+    <string name="collapsed">collapsed: %s</string>
+    <string name="expanded">expanded: %s</string>
+</resources>
