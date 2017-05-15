@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:weightSum="1">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="280dp"
+        android:id="@+id/ImageContainer">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/iv_test_OCRImage"
+            android:src="@drawable/test_image"/>
+
+    </RelativeLayout>
+
+    <Button
+            android:layout_width="150dp"
+            android:layout_height="50dp"
+            android:text="Run OCR"
+            android:id="@+id/btn_OCR"
+            android:layout_gravity="center"
+            android:background="@color/colorPrimary"
+            android:textColor="#ffffff"
+            android:onClick="runOCR"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#e4e3e3"
+        android:id="@+id/OCRTextContainer"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="OCR Text will appear here"
+            android:id="@+id/tv_OCR_Result"
+            android:textSize="18dp"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:background="#dedede"
+            android:textColor="#a3a3a3" />
+    </RelativeLayout>
+</LinearLayout>
