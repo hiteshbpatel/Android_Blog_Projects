@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KotlinDemo</string>
+    <string name="password">Password</string>
+    <string name="LoginScreen">LoginScreen</string>
+    <string name="username_email_id">Username/Email Id</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="signup">Sign Up</string>
+    <string name="log_in">Log In</string>
+    <string name="not_a_member_sign_up_now">Not a member? Sign up now.</string>
+</resources>
