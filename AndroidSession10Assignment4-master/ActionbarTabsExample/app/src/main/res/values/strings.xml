@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Actionbar Tabs Example</string>
+    <string name="action_settings">Settings</string>
+    <string name="search">Search</string>
+    <string name="settings">Settings</string>
+    <string name="item">Item</string>
+    <string name="item1">Item1</string>
+    <string name="acadgild">ACADGILD</string>
+    <string name="learn">Learn</string>
+    <string name="earn">Earn</string>
+    <string name="DO">Do</string>
+</resources>

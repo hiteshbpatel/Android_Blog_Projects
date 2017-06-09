@@ -1,0 +1,18 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#1aaa9e"
+    tools:context="example.com.actionbartabsexample.Tab1Fragment">
+
+    <TextView
+        android:layout_width="200sp"
+        android:layout_height="200sp"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:background="@drawable/my_style"
+        android:text="@string/learn"
+        android:textSize="40sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>
