@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/add"
+        android:title="@string/addL"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_add_black_24px"/>
+    <item android:id="@+id/remove"
+        android:title="@string/removeL"
+        app:showAsAction="always"
+        android:icon="@android:drawable/ic_menu_delete"/>
+    <item android:id="@+id/search"
+        android:title="@string/searchL"
+        app:showAsAction="never"
+        />
+    <item android:id="@+id/settings"
+        android:title="@string/settingsL"
+        app:showAsAction="never"
+        />
+
+</menu>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">A11.3</string>
+    <string name="delete">Delete</string>
+    <string name="read">Read</string>
+    <string name="save">Save</string>
+    <string name="label">Reading and Writing to External Storage</string>
+
+    <string name="memoryStatus">Memory Status:</string>
+</resources>

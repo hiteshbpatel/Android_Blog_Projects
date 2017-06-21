@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">A10.2</string>
+    <string name="addL">Add</string>
+    <string name="removeL">Remove</string>
+    <string name="searchL">Search</string>
+    <string name="settingsL">Settings</string>
+</resources>

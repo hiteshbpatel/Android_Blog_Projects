@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="5dp"
+    android:orientation="vertical"
+    tools:context="com.vigneshtraining.assignment113.MainActivity">
+
+    <TextView android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+
+    android:text="@string/label"
+    android:textSize="20sp"/>
+
+    <EditText
+        android:id="@+id/txt"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/border"
+        android:scrollbars="vertical"
+        android:layout_weight="0.8"
+        android:gravity="top|left"
+
+        android:padding="5dp"
+        android:text=""
+        android:textSize="22sp">
+    <requestFocus/>
+    </EditText>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/saveBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:text="@string/save"/>
+        <Button
+            android:id="@+id/readBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:visibility="gone"
+            android:text="@string/read"/>
+        <Button
+            android:id="@+id/deleteBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:text="@string/delete"/>
+    </LinearLayout>
+
+
+</LinearLayout>
