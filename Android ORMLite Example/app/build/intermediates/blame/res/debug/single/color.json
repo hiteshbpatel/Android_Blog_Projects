@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Music\\Android ORMLite Example\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\f8c5d8f375e9bf3afb93cbc84dfa714d8a11a3c8\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Music\\Android ORMLite Example\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\f8c5d8f375e9bf3afb93cbc84dfa714d8a11a3c8\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Music\\Android ORMLite Example\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\f8c5d8f375e9bf3afb93cbc84dfa714d8a11a3c8\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Music\\Android ORMLite Example\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\f8c5d8f375e9bf3afb93cbc84dfa714d8a11a3c8\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Music\\Android ORMLite Example\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\f8c5d8f375e9bf3afb93cbc84dfa714d8a11a3c8\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Music\\Android ORMLite Example\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\f8c5d8f375e9bf3afb93cbc84dfa714d8a11a3c8\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Music\\Android ORMLite Example\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\f8c5d8f375e9bf3afb93cbc84dfa714d8a11a3c8\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Music\\Android ORMLite Example\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\f8c5d8f375e9bf3afb93cbc84dfa714d8a11a3c8\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Music\\Android ORMLite Example\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\user\\.android\\build-cache\\f8c5d8f375e9bf3afb93cbc84dfa714d8a11a3c8\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    }
+]

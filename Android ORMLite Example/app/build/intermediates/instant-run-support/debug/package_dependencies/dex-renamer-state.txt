@@ -1,0 +1,22 @@
+#Fri Jul 28 15:21:37 IST 2017
+renamed.6=classes2.dex
+renamed.5=classes6.dex
+renamed.4=classes3.dex
+renamed.3=classes5.dex
+renamed.2=classes.dex
+renamed.1=classes4.dex
+renamed.0=classes7.dex
+base.6=C\:\\Users\\user\\Music\\Android ORMLite Example\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_a9b95eb55ababe55a65c206ccaad5c6bc729f1c1
+base.5=C\:\\Users\\user\\Music\\Android ORMLite Example\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\ormlite-core-4.48_3439a6ec04c35034dd76aef6462cfbece9de91fb
+base.4=C\:\\Users\\user\\Music\\Android ORMLite Example\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gson-2.5_611ebee736fd71735c803243c28656233df0ecf8
+base.3=C\:\\Users\\user\\Music\\Android ORMLite Example\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\ormlite-android-4.48_444b32444b3472d2ec007aabd84ec0342dcd1959
+base.2=C\:\\Users\\user\\Music\\Android ORMLite Example\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_03c6a322895fd61cca30c438fceda1450932357f
+base.1=C\:\\Users\\user\\Music\\Android ORMLite Example\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.1.1_c202ecdd38150b95db9f6f4d8d2a13335ddfb599
+base.0=C\:\\Users\\user\\Music\\Android ORMLite Example\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.1.1_006ce85cced6eb823a57555fe4999c1641a59cea
+file.6=C\:\\Users\\user\\Music\\Android ORMLite Example\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_a9b95eb55ababe55a65c206ccaad5c6bc729f1c1\\classes.dex
+file.5=C\:\\Users\\user\\Music\\Android ORMLite Example\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\ormlite-core-4.48_3439a6ec04c35034dd76aef6462cfbece9de91fb\\classes.dex
+file.4=C\:\\Users\\user\\Music\\Android ORMLite Example\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gson-2.5_611ebee736fd71735c803243c28656233df0ecf8\\classes.dex
+file.3=C\:\\Users\\user\\Music\\Android ORMLite Example\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\ormlite-android-4.48_444b32444b3472d2ec007aabd84ec0342dcd1959\\classes.dex
+file.2=C\:\\Users\\user\\Music\\Android ORMLite Example\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_03c6a322895fd61cca30c438fceda1450932357f\\classes.dex
+file.1=C\:\\Users\\user\\Music\\Android ORMLite Example\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.1.1_c202ecdd38150b95db9f6f4d8d2a13335ddfb599\\classes.dex
+file.0=C\:\\Users\\user\\Music\\Android ORMLite Example\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.1.1_006ce85cced6eb823a57555fe4999c1641a59cea\\classes.dex

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Music\Android ORMLite Example\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83ab93d4e90aebd8a63cf3f6342ec15bc4ca946">
+        <dex dex="C:\Users\user\Music\Android ORMLite Example\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ffdb911f244cb70fe5cf7ec3c3245c8dd86f544e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Music\Android ORMLite Example\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\user\Music\Android ORMLite Example\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_27d57754523e0ab611d8ffdcfe68c6e28894821d\classes.dex" />
+    </item>
+
+</items>

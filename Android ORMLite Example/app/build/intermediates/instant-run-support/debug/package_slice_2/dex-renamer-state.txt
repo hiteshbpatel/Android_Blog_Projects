@@ -1,0 +1,4 @@
+#Fri Jul 28 15:21:37 IST 2017
+base.0=C\:\\Users\\user\\Music\\Android ORMLite Example\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2
+renamed.0=classes.dex
+file.0=C\:\\Users\\user\\Music\\Android ORMLite Example\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2\\classes.dex
