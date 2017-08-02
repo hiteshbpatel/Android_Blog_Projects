@@ -1,7 +1,0 @@
-#Fri Jul 28 15:21:38 IST 2017
-base.0=C\:\\Users\\user\\Music\\Android ORMLite Example\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_27d57754523e0ab611d8ffdcfe68c6e28894821d
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=C\:\\Users\\user\\Music\\Android ORMLite Example\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ffdb911f244cb70fe5cf7ec3c3245c8dd86f544e\\classes.dex
-base.1=C\:\\Users\\user\\Music\\Android ORMLite Example\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ffdb911f244cb70fe5cf7ec3c3245c8dd86f544e
-file.0=C\:\\Users\\user\\Music\\Android ORMLite Example\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_27d57754523e0ab611d8ffdcfe68c6e28894821d\\classes.dex
