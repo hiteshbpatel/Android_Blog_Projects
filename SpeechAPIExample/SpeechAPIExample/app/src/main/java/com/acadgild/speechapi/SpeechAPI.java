@@ -167,7 +167,8 @@ public class SpeechAPI {
                 .setSingleUtterance(true)
                 .build();
 
-        StreamingRecognizeRequest streamingRecognizeRequest = StreamingRecognizeRequest.newBuilder().setStreamingConfig(streamingConfig).build();
+        StreamingRecognizeRequest streamingRecognizeRequest = StreamingRecognizeRequest.newBuilder().
+                setStreamingConfig(streamingConfig).build();
         mRequestObserver.onNext(streamingRecognizeRequest);
     }
 

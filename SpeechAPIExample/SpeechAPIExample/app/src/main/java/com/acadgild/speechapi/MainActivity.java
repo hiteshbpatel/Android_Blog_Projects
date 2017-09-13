@@ -120,24 +120,19 @@ public class MainActivity extends AppCompatActivity {
                 android.R.layout.simple_list_item_1, stringList);
         listView.setAdapter(adapter);
     }
-
     @Override
     protected void onStop() {
         stopVoiceRecorder();
-
         // Stop Cloud Speech API
         speechAPI.removeListener(mSpeechServiceListener);
         speechAPI.destroy();
         speechAPI = null;
-
         super.onStop();
     }
-
     @Override
     protected void onResume() {
         super.onResume();
     }
-
     @Override
     protected void onStart() {
         super.onStart();
@@ -152,11 +147,9 @@ public class MainActivity extends AppCompatActivity {
     private int isGrantedPermission(String permission) {
         return ContextCompat.checkSelfPermission(this, permission);
     }
-
     private void makeRequest(String permission) {
         ActivityCompat.requestPermissions(this, new String[]{permission}, RECORD_REQUEST_CODE);
     }
-
     private void startVoiceRecorder() {
         if (mVoiceRecorder != null) {
             mVoiceRecorder.stop();
@@ -164,14 +157,12 @@ public class MainActivity extends AppCompatActivity {
         mVoiceRecorder = new VoiceRecorder(mVoiceCallback);
         mVoiceRecorder.start();
     }
-
     private void stopVoiceRecorder() {
         if (mVoiceRecorder != null) {
             mVoiceRecorder.stop();
             mVoiceRecorder = null;
         }
     }
-
     @Override
     public void onRequestPermissionsResult(int requestCode, String[] permissions, int[] grantResults) {
         if (requestCode == RECORD_REQUEST_CODE) {
