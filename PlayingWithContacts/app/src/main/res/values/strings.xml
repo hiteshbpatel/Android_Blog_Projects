@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">"Playing With Contacts "</string>
+    <string name="insert_contact">Add Contact</string>
+    <string name="update_contact">Update Contact</string>
+    <string name="delete_contact">Delete Contact</string>
+    <string name="save_contact">Save</string>
+    <string name="cancel_contact">Cancel</string>
+    <string name="update_title">Update by Name</string>
+</resources>
