@@ -15,7 +15,7 @@ import com.google.cloud.translate.Translation;
 public class MainActivity extends AppCompatActivity {
 
     // todo API_KEY should not be stored in plain sight
-    private static final String API_KEY = "AIzaSyDbRCNSLzuwbVzwtO-0H5QSWfDnn8PGb60";
+    private static final String API_KEY = "YOUR_API_KEY";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
