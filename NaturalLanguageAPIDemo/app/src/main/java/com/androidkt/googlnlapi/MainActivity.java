@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     public static final String TAG = "MainActivity";
 
-    public static final String API_KEY = "AIzaSyANIjxru9DckGxRBBHGD4cCicyb1M0KpJI";
+    public static final String API_KEY = "YOUR_API_KEY";
 
 
     @BindView(R.id.analyze)
