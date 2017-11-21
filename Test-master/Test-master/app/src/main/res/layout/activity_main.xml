@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2FAF84"
+    tools:context=".MainActivity" >
+
+    <EditText
+        android:id="@+id/txtUserName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:imeOptions="actionNext"
+        android:hint="Username"
+        android:textSize="15sp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="#FFFFFF"
+        android:padding="5dp"
+        android:layout_marginTop="150dp"/>
+
+    <EditText
+        android:id="@+id/txtPass"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtUserName"
+        android:background="#FFFFFF"
+        android:textSize="15sp"
+        android:imeOptions="actionDone"
+        android:inputType="textPassword"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:padding="5dp"
+        android:hint="Passowrd"/>
+
+    <Button
+        android:id="@+id/btnLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="230dp"
+        android:layout_centerHorizontal="true"
+        android:text="LOGIN"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:textColor="#43C398"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="320dp"
+        android:gravity="center"
+        android:text="Not a member. Sign up now."
+        android:textColor="#FFFFFF"/>
+</RelativeLayout>
