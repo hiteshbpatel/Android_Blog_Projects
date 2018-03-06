@@ -1,54 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#2FAF84"
-    tools:context=".MainActivity" >
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_centerHorizontal="true"
+        android:background="@android:color/holo_blue_dark"
+        android:gravity="center_horizontal"
+        android:text="Login"
+        android:textSize="50dp" />
 
     <EditText
-        android:id="@+id/txtUserName"
+        android:id="@+id/editText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:imeOptions="actionNext"
+        android:layout_below="@+id/textView4"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="130dp"
+        android:ems="10"
         android:hint="Username"
-        android:textSize="15sp"
-        android:layout_marginLeft="10dp"
-        android:layout_marginRight="10dp"
-        android:background="#FFFFFF"
-        android:padding="5dp"
-        android:layout_marginTop="150dp"/>
+        android:inputType="textPersonName" />
 
     <EditText
-        android:id="@+id/txtPass"
+        android:id="@+id/editText3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@id/txtUserName"
-        android:background="#FFFFFF"
-        android:textSize="15sp"
-        android:imeOptions="actionDone"
-        android:inputType="textPassword"
-        android:layout_marginLeft="10dp"
-        android:layout_marginRight="10dp"
-        android:layout_marginTop="10dp"
-        android:padding="5dp"
-        android:hint="Passowrd"/>
+        android:layout_below="@+id/editText"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="54dp"
+        android:ems="10"
+        android:hint="Password"
+        android:inputType="textPersonName" />
 
     <Button
-        android:id="@+id/btnLogin"
-        android:layout_width="match_parent"
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="230dp"
-        android:layout_centerHorizontal="true"
-        android:text="LOGIN"
-        android:layout_marginLeft="10dp"
-        android:layout_marginRight="10dp"
-        android:textColor="#43C398"/>
+        android:layout_marginLeft="78dp"
+        android:layout_marginStart="78dp"
+        android:text="Login"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="70dp" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/button3"
+        android:layout_marginLeft="51dp"
+        android:layout_marginStart="51dp"
+        android:layout_toEndOf="@+id/button3"
+        android:layout_toRightOf="@+id/button3"
+        android:text="Cancel" />
+
     <TextView
-        android:layout_width="match_parent"
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="320dp"
-        android:gravity="center"
-        android:text="Not a member. Sign up now."
-        android:textColor="#FFFFFF"/>
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/editText3"
+        android:layout_marginLeft="13dp"
+        android:layout_marginStart="13dp"
+        android:layout_marginTop="29dp"
+        android:text="Attempts left:"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/button4"
+        android:layout_alignStart="@+id/button4"
+        android:layout_alignTop="@+id/textView"
+        android:layout_marginLeft="13dp"
+        android:layout_marginStart="13dp"
+        android:text="Count"
+        android:textSize="30sp" />
+
 </RelativeLayout>
